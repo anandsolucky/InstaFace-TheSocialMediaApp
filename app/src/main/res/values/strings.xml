@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InstaFace</string>
+    <string name="post">Post</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="post_what_s_happening">Post what\'s happening...</string>
+    <string name="settings">settings</string>
+    <string name="write_something">Write something</string>
+    <string name="write_post">write post</string>
+    <string name="send_post">Send Post</string>
+    <string name="dont_have_an_account">don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="get_started">Get Started</string>
+    <string name="search">search</string>
+    <string name="about_developer">About Developer</string>
+    <string name="profile">Profile</string>
+</resources>
